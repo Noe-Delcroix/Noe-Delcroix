@@ -4,7 +4,7 @@ Noé Delcroix, 18 ans, actuellement en 2ème année à l'IUT A de l'Université 
 
 Vous êtes ici sur mon GitLab personnel. Vous pouvez y retrouver les divers projets que j'ai réalisé sur mon temps libre.
 
-Je posède également un compte GitLab Universitaire où vous pouvez retouver les projets que j'ai réalisé dans le cadre de mes études, seul ou en groupe.
+Je possède également un compte GitLab Universitaire où vous pouvez retouver les projets que j'ai réalisé dans le cadre de mes études, seul ou en groupe.
 https://gitlab.univ-lille.fr/noe.delcroix.etu
 
 # Contacts

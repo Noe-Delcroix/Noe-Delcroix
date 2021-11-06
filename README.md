@@ -1,16 +1,17 @@
-### Hi there 👋
+# Bienvenue !
 
-<!--
-**Noe-Delcroix/Noe-Delcroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Noé Delcroix, 18 ans, actuellement en 2ème année à l'IUT A de l'Université de Lille.
 
-Here are some ideas to get you started:
+Vous êtes ici sur mon GitLab personnel. Vous pouvez y retrouver les divers projets que j'ai réalisé sur mon temps libre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je posède également un compte GitLab Universitaire où vous pouvez retouver les projets que j'ai réalisé dans le cadre de mes études, seul ou en groupe.
+https://gitlab.univ-lille.fr/noe.delcroix.etu
+
+# Contacts
+
+Mon site web : https://noe-delcroix.github.io/CV-Web/
+
+Mon LinkedIn : https://www.linkedin.com/in/no%C3%A9-delcroix-0ab6411b8/
+
+Mon Discord : Nøway#7043
+

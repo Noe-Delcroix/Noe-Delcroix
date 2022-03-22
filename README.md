@@ -1,6 +1,6 @@
 # Bienvenue !
 
-Noé Delcroix, 18 ans, actuellement en 2ème année à l'IUT A de l'Université de Lille.
+Noé Delcroix, 19 ans, actuellement en 2ème année à l'IUT A de l'Université de Lille.
 
 Vous êtes ici sur mon GitLab personnel. Vous pouvez y retrouver les divers projets que j'ai réalisé sur mon temps libre.
 

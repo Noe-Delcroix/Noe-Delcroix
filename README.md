@@ -1,16 +1,12 @@
-# Bienvenue !
+# Hello, my name is **Noé**, nice to meet you !
 
-Noé Delcroix, 19 ans, actuellement étudiant suivant un cycle d'ingénieur informatique en apprentissage à l'IMT Nord Europe.
+I'm a 20 years old french developer, currently following a work-study program as a web developer in a french children's clothing company called Vertbaudet. I'm studying computer science and network engineering at IMT Nord Europe.
+I've been passionate about computers and development for a long time and I'm always looking for new challenges to discover new technologies !
 
-Vous êtes ici sur mon GitLab personnel. Vous pouvez y retrouver les divers projets que j'ai réalisé sur mon temps libre.
+This is my personal GitHub. Here you can find the various projects I've been working on in my spare time.
 
-Je possède également un compte GitLab Universitaire où vous pouvez retouver les projets que j'ai réalisé dans le cadre de mes études, seul ou en groupe.
-https://gitlab.univ-lille.fr/noe.delcroix.etu
-
-# Contacts
-
-Mon site web : https://noe-delcroix.github.io/CV-Web/
-
-Mon LinkedIn : https://www.linkedin.com/in/no%C3%A9-delcroix-0ab6411b8/
-
-Mon Discord : Noway#7043
+## Contact me
+- Email : noe.delcroix59@gmail.com
+- [Website](https://www.noedelcroix.com/)
+- [LinkedIn](https://www.linkedin.com/in/no%C3%A9-delcroix-0ab6411b8/)
+- Discord : @noway7043
